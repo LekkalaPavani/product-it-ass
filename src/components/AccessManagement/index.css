@@ -1,0 +1,12 @@
+.access-container{
+    width:80vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.access-container h1{
+    color: black;
+    text-align: center;
+}
